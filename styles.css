@@ -1,0 +1,8 @@
+hr{
+  border-style: dotted none none none;
+  border-width: 3px;
+  border-color: gray;
+}
+.middle-container1{background-color:blue;
+width: 200px;
+height: 200px;}
